@@ -19,7 +19,7 @@ class Categories extends StatelessWidget {
       child: Column(
         children: [
           Text(
-            'Pick your category\nof interest',
+            'Pick your category of interest',
             style: AppStyles.picCategory,
           ),
           Expanded(
